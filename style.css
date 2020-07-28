@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://pbs.twimg.com/media/EcTtKSWUMAA5ab8.jpg:large");
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 110px;
+}
+
+div {
+    margin: 20px;
+}
+
+.result {
+    background: #FFFFFF;
+    display: inline-block;
+    height: 100px;
+    line-height: 100px;
+    width: 200px;
+}
+
+button {
+    border: none;
+    border-radius: 50%;
+    color: #FFFFFF;
+    font-size:25px;
+    height: 120px;
+    width: 120px;
+}
+
+.start {
+    background: #ff69b4;
+}
+
+.stop {
+    background:#00ff7f;
+}
+
+.title {
+    color: #ff00ff;
+    background-color:rgba(255,255,255,0.8);
+    width: 600px;
+    position: relative;
+    left:380px;
+}
